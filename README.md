@@ -15,4 +15,4 @@ This program is written in **C (C99 standard)** and is compiled using the provid
 To build and run the project:
 ```bash
 make
-./program_name
+./lab4
