@@ -1,4 +1,4 @@
-This is a school project from the Systems 1 course at Ohio State. The goal was to use linked lists to create a working system to track, alter, and show a variety of different datapoints for each student. \n The same base code could be applied in many areas to create simple data storage system for a large group. It is run using C99 using the MakeFile included. 
+This is a school project from the Systems 1 course at Ohio State. The goal was to use linked lists to create a working system to track, alter, and show a variety of different datapoints for each student. The same base code could be applied in many areas to create simple data storage system for a large group. It is run using C99 using the MakeFile included. 
 Skills Used:
             1) Linked List Modification
             2) File Linkage
